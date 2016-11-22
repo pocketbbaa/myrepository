@@ -3,6 +3,3 @@ aaaaa
 ccc
 dd
 e
-wwwwwww
-qqqqqqq
-qwe
